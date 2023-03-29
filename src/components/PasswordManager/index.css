@@ -1,0 +1,53 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-logo {
+  height: 80px;
+  align-self: flex-start;
+}
+
+.password-manager-header {
+  display: flex;
+  background-color: #5763a5;
+  width: 80vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.password-form-heading {
+  color: #fff;
+  font-size: 22px;
+}
+
+.password-manager-footer {
+  background-color: #5763a5;
+  width: 80vw;
+  margin-top: 20px;
+}
+
+.password-form-con {
+  background-color: #454f84;
+  height: 300px;
+  width: 340px;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.password-manager-img {
+  height: 400px;
+  width: 400px;
+}
+
+.form-input-el-con {
+  background-color: #fff;
+}
+
+.icon {
+  height: 24px;
+  width: 24px;
+}
